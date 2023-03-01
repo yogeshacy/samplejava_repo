@@ -8,4 +8,6 @@ class sample{
 
 m1 (){
 	//120-tasks
+m1(){
+	//101-task workings
 }
