@@ -6,8 +6,8 @@ class sample{
 	int b=20;
 }
 
-m1 (){
+m120 (){
 	//120-tasks
-m1(){
+m101(){
 	//101-task workings
 }
